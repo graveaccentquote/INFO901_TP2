@@ -4,4 +4,4 @@ install:
 	pip install -r requirements.txt
 
 run:
-	python3 main "test.png" "test_out.png"
+	python3 main.py ./resources/chablais-orig.png ./resources/test_out.png
