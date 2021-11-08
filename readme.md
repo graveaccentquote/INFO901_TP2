@@ -1,7 +1,3 @@
-OSTROWSKI Camille
-camille.ostrowski@etu.univ-smb.fr
-
-
 *  To activate the virtual environement :
 
         . ./bin/activate
